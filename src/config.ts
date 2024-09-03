@@ -23,7 +23,7 @@ export const GITHUB_EDIT_URL = GITHUB_REPO_URL + '/edit/main/src/pages/'
 // used for edit url link at the bottom of each page in docs so users can edit it
 // dont change it unless your branch name is not "main" (/edit/BRANCH_NAME/src/pages/)
 
-export const GET_STARTED_LINK = '/introduction'
+export const GET_STARTED_LINK = 'https://t.me/DeSciAsia'
 // used for landing page and nav link (just type it without language path)
 
 export const SINGLE_LANGUAGE = false
