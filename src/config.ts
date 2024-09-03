@@ -1,12 +1,12 @@
 import { type LanguageKeys } from '@/i18n/ui'
 import type { ThemeObjectOrShikiThemeName } from 'astro-expressive-code'
 
-export const PROJECT_NAME = 'Stellar'
+export const PROJECT_NAME = 'DeSci Asia'
 // used for landing page heading and nav home link
 
 export const SITE = {
-  title: 'Stellar',
-  description: 'Modern type-safe documentation theme for Astro.',
+  title: 'DeSci Asia',
+  description: 'The DAO that represents  and promotes interests of DeSci Development in Asia',
   defaultLanguage: 'en_US', // don't mistaken this with DEFAULT_LANGUAGE_CODE below, this is used only for meta tags
 }
 // used for meta tags
