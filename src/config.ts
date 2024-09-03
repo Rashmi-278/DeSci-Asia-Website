@@ -14,10 +14,10 @@ export const SITE = {
 export const DEFAULT_LANGUAGE_CODE: LanguageKeys = 'en'
 // when user is on '/' path, this will be the default language
 
-export const TWITTER_USERNAME = null
+export const TWITTER_USERNAME = DeSciAsia
 // enter your twitter username if you have it
 
-export const GITHUB_REPO_URL = 'https://github.com/ekmas/stellar'
+export const GITHUB_REPO_URL = 'https://github.com/Rashmi-278/DeSci-Asia-Website'
 
 export const GITHUB_EDIT_URL = GITHUB_REPO_URL + '/edit/main/src/pages/'
 // used for edit url link at the bottom of each page in docs so users can edit it
