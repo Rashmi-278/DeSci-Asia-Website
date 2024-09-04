@@ -14,7 +14,7 @@ export const SITE = {
 export const DEFAULT_LANGUAGE_CODE: LanguageKeys = 'en'
 // when user is on '/' path, this will be the default language
 
-export const TWITTER_USERNAME = DeSciAsia
+export const TWITTER_USERNAME = 'DeSciAsia'
 // enter your twitter username if you have it
 
 export const GITHUB_REPO_URL = 'https://github.com/Rashmi-278/DeSci-Asia-Website'
